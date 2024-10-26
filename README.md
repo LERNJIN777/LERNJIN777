@@ -6,8 +6,7 @@
                     IC Verification
 - 🌱 I’m currently learning ...
                     ASIC and FPGA Design Flows
-                    Design Tools like Cadence, Synopsys, and Mentor Graphics
-                    Advanced HDL
+                    Design Tools like vivado
 - 💞️ I’m looking to collaborate on ...
                     Digital Design Projects
                     Verification
