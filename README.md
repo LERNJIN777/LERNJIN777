@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LERNJIN777
+- 👋 Hi, I’m @Jatin
 - 👀 I’m interested in...
                     Digital Design
                     Hardware Description Languages
